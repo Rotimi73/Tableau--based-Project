@@ -1,4 +1,4 @@
-# power-bi-project
+# Tableau-project
 
 
 # 📊 Global Superstore Tableau Dashboard Project
